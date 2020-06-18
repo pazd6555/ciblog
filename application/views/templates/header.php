@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>ciBlog</title>
+		<title>Clima-Flex</title>
 		<link rel="stylesheet" href="https://bootswatch.com/4/flatly/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
     <script src="https://cdn.ckeditor.com/4.13.1/standard/ckeditor.js"></script>
@@ -21,13 +21,10 @@
       <a class="nav-link" href="<?php echo base_url(); ?>">Home</a>
       </li>
       <li class="nav-item">
-      <a class="nav-link" href="<?php echo base_url(); ?>about">About</a>
-      </li>
-        <li class="nav-item">
-      <a class="nav-link" href="<?php echo base_url(); ?>posts">Blog</a>
+      <a class="nav-link" href="<?php echo base_url(); ?>posts">Archivos</a>
       </li>
       <li class="nav-item">
-      <a class="nav-link" href="<?php echo base_url(); ?>categories">Categories</a>
+      <a class="nav-link" href="<?php echo base_url(); ?>categories">Area</a>
       </li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
